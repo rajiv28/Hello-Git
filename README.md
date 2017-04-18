@@ -1,2 +1,3 @@
 # Hello-Git
-first git repository
+first repository
+input 1
